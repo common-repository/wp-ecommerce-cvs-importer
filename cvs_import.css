@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+#plugin-div{
+float: left;
+width:68%;
+}
+#plugin-paypal{
+float: left;
+width:30%;
+}
+#make-me-happy img{
+position: absolute;
+text-align: left;
+width: 180px;
+height:120px;
+padding-bottom: 5px;
+padding-left: 20px;
+margin-top: -25px;
+z-index:-1;
+}
+#happy-text{
+font: bold italic 150%/1em "Trebuchet MS", Arial, Helvetica, sans-serif;
+color: red;
+padding-top: 20px;
+padding-left: 25px;
+}
+#plugin-paypal form{
+padding-top: 110px;
+padding-left: 25px;
+}
+#cart_options h2{
+font: bold italic 200%/1em "Trebuchet MS", Arial, Helvetica, sans-serif;
+text-align: center;
+background-color:#919AA5;
+border: 5px solid #919AA5;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+#top-input{
+padding: 10px 0;
+text-align: center;
+}
+#bottom-input{
+padding: 10px 0;
+text-align: center;
+}
